@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CS 3114</key>
+	<dict>
+		<key>Course Grade</key>
+		<integer>1</integer>
+		<key>Work</key>
+		<dict>
+			<key>Projects</key>
+			<dict>
+				<key>Total Percentage</key>
+				<string>45</string>
+				<key>Grade For Work</key>
+				<integer>1</integer>
+				<key>Project 1</key>
+				<array>
+					<integer>5</integer>
+					<integer>76</integer>
+					<integer>100</integer>
+					<integer>3</integer>
+				</array>
+				<key>Project 2</key>
+				<array>
+					<integer>10</integer>
+					<integer>65</integer>
+					<integer>100</integer>
+					<integer>5</integer>
+				</array>
+				<key>Project 3</key>
+				<array>
+					<integer>15</integer>
+					<integer>100</integer>
+					<integer>100</integer>
+					<integer>0</integer>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+	<key>CS 3714</key>
+	<dict>
+		<key>Course Grade</key>
+		<integer>0</integer>
+		<key>Work</key>
+		<dict>
+			<key>Assignments</key>
+			<dict>
+				<key>Total Percentage</key>
+				<string>45</string>
+				<key>Grade For Work</key>
+				<integer>3</integer>
+				<key>Tip Calculator</key>
+				<array>
+					<integer>5</integer>
+					<integer>85</integer>
+					<integer>100</integer>
+					<integer>3</integer>
+				</array>
+			</dict>
+			<key>Exams</key>
+			<dict>
+				<key>Total Percentage</key>
+				<string>25</string>
+				<key>Grade For Work</key>
+				<integer>0</integer>
+			</dict>
+			<key>Semester Project</key>
+			<dict>
+				<key>Total Percentage</key>
+				<string>25</string>
+				<key>Grade For Work</key>
+				<integer>0</integer>
+			</dict>
+			<key>Tutorials</key>
+			<dict>
+				<key>Total Percentage</key>
+				<string>5</string>
+				<key>Grade For Work</key>
+				<integer>0</integer>
+				<key>Total</key>
+				<array>
+					<integer>0</integer>
+					<integer>100</integer>
+					<integer>100</integer>
+					<integer>0</integer>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
